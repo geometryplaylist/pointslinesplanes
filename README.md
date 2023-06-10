@@ -18,7 +18,7 @@ This playlist includes topics about points, lines and planes
   <p>In this lesson, we will cover the basic concepts of geometry.</p>
    <ul>
     <li><a href="https://www.youtube.com/watch?v=xxyY3_mOUZE">Video: Introduction to Geometry</a></li>
-    <li><a href="https://www.example.com/quiz](https://quizizz.com/admin/quiz/62125d1d2f3203001dc67c7b/introduction-to-geometry?fromSearch=true&source=null)">Interactive Quiz: Basic Geometry Terms</a></li>
+    <li><a href="https://quizizz.com/admin/quiz/62125d1d2f3203001dc67c7b/introduction-to-geometry?fromSearch=true&source=null)">Interactive Quiz: Basic Geometry Terms</a></li>
   </ul>
   
   <h2>Lesson 2: Types of Angles</h2>
