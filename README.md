@@ -17,7 +17,7 @@ This playlist includes topics about points, lines and planes
   <h2>Lesson 1: Introduction to Geometry</h2>
   <p>In this lesson, we will cover the basic concepts of geometry.</p>
    <ul>
-    <li><a href="https://www.youtube.com/watch?v=12345">Video: Introduction to Geometry</a></li>
+    <li><a href="https://www.youtube.com/watch?v=xxyY3_mOUZE">Video: Introduction to Geometry</a></li>
     <li><a href="https://www.example.com/quiz">Interactive Quiz: Basic Geometry Terms</a></li>
   </ul>
   
