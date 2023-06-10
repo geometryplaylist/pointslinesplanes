@@ -16,7 +16,10 @@ This playlist includes topics about points, lines and planes
   
   <h2>Lesson 1: Introduction to Geometry</h2>
   <p>In this lesson, we will cover the basic concepts of geometry.</p>
-  <!-- Add interactive elements like quizzes, exercises, or examples here -->
+  <ul>
+    <li>Video: Introduction to Geometry</li>
+    <li>Interactive Quiz: Basic Geometry Terms</li>
+  </ul>  
   
   <h2>Lesson 2: Types of Angles</h2>
   <p>In this lesson, we will learn about different types of angles and their properties.</p>
